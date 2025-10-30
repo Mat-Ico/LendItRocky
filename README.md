@@ -1,3 +1,4 @@
+# LendItRocky
 1. Project Overview
 
   The LendItRocky Management System is a web application that streamlines the management of accounts, equipment, and facilities. It provides role-based access for administrators, students/borrowers, and custodians, allowing each user type to perform tasks efficiently through a centralized platform.
