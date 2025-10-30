@@ -31,3 +31,5 @@ General Features
 - Backend: PHP, Node.js
 - Database: MySQL
 - Version Control: Git
+
+This project is for academic and educational use only
